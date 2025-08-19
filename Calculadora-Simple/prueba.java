@@ -1,4 +1,4 @@
-package Calculadora;
+
 // This Java program implements a simple calculator that performs addition, subtraction, multiplication, and division on two numbers based on user input.
 import java.util.Scanner;
 
